@@ -1,6 +1,6 @@
 --cowwerware
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Legosmoke/Astralleakedlol/3kdIKfmsdSf/AstralLogoV1', true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cowwerware/loksalogo/main/loksalogo", true))()
 
 local lplr = game.Players.LocalPlayer
 local cam = game:GetService("Workspace").CurrentCamera
